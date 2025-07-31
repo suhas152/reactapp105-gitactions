@@ -6,6 +6,7 @@ export default function App() {
       <h1> Welcome to my react project-S105</h1>
       <h1>CI/CD and Cloud DevOps Course</h1>
 <p>This is a simple home page deployed on Git Hub Actions Using Vite.</p>
+<h1>Done with Git Pages & Git Actions</h1>
 
     </div>
   )
