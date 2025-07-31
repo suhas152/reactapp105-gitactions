@@ -5,7 +5,7 @@ export default function App() {
     <div className='container'>
       <h1> Welcome to my react project-S105</h1>
       <h1>CI/CD and Cloud DevOps Course</h1>
-<p>This is a simple home page deployed on Git Hub Pages Using Vite.</p>
+<p>This is a simple home page deployed on Git Hub Actions Using Vite.</p>
 
     </div>
   )
